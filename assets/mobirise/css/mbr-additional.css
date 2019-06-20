@@ -2435,3 +2435,15 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rtU1AprKIa {
+  background: #ffffff;
+}
+.cid-rtU1AprKIa .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rtU1AprKIa .video-block {
+    width: 100% !important;
+  }
+}
