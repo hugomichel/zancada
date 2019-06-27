@@ -2461,6 +2461,18 @@ body {
     width: 100% !important;
   }
 }
+.cid-ruBz8QNc6z {
+  background: #ffffff;
+}
+.cid-ruBz8QNc6z .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-ruBz8QNc6z .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #ffffff;
